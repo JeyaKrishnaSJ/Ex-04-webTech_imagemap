@@ -186,7 +186,8 @@ Run the Django server and execute the HTML files
 </html>
 # Output:
 MAP
-![map (2)](https://user-images.githubusercontent.com/118707091/213926643-f81d1dd7-e6f6-4e0e-a149-7b78a45a6f9b.png)
+
+![map (2)](https://user-images.githubusercontent.com/118707091/213926932-285b041f-e041-4134-819d-2f438bbdc009.png)
 
 BANK
 ![bank](https://user-images.githubusercontent.com/118707091/213926610-c83eacf9-0781-40a4-86f4-2bf37564e216.png)
