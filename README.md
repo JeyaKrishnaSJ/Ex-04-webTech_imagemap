@@ -160,7 +160,9 @@ Run the Django server and execute the HTML files
 </p>
 </body>
 </html>
+```
 6.rto.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
