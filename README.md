@@ -18,6 +18,7 @@ Run the Django server and execute the HTML files
 
 # Code:
 1. map.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -37,8 +38,9 @@ Run the Django server and execute the HTML files
 </map>
 </body>
 </html>
-
+```
 2. bank.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -66,8 +68,9 @@ Run the Django server and execute the HTML files
 </p>
 </body>
 </html>
-
+```
 3. hotel.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -96,9 +99,9 @@ Run the Django server and execute the HTML files
 </p>
 </body>
 </html>
-
+```
 4. kna.html
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -126,8 +129,9 @@ Run the Django server and execute the HTML files
 </p>
 </body>
 </html>
-
+```
 5.park.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -184,6 +188,7 @@ Run the Django server and execute the HTML files
 </p>
 </body>
 </html>
+```
 # Output:
 MAP
 
